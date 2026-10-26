@@ -18,7 +18,7 @@
 * **Diseño UI/UX & Prototipado:** Figma (Componentes, Flujos de Navegación, Wireframing, Auto Layout).
 * **Desarrollo de Software:** C# (.NET / Windows Forms), Python (Básico), Java (Básico).
 * **Gestión & Control de Versiones:** Git, GitHub, Visual Studio.
-* **Formatos de Datos:** JSON, Markdown.
+* **Formatos de Datos:** JSON.
 
 ---
 
